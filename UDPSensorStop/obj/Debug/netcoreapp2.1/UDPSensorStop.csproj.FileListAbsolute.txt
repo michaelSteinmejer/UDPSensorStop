@@ -1,0 +1,11 @@
+C:\Source\UDP\UDPSensorStop\UDPSensorStop\bin\Debug\netcoreapp2.1\UDPSensorStop.deps.json
+C:\Source\UDP\UDPSensorStop\UDPSensorStop\bin\Debug\netcoreapp2.1\UDPSensorStop.runtimeconfig.json
+C:\Source\UDP\UDPSensorStop\UDPSensorStop\bin\Debug\netcoreapp2.1\UDPSensorStop.runtimeconfig.dev.json
+C:\Source\UDP\UDPSensorStop\UDPSensorStop\bin\Debug\netcoreapp2.1\UDPSensorStop.dll
+C:\Source\UDP\UDPSensorStop\UDPSensorStop\bin\Debug\netcoreapp2.1\UDPSensorStop.pdb
+C:\Source\UDP\UDPSensorStop\UDPSensorStop\obj\Debug\netcoreapp2.1\UDPSensorStop.csprojAssemblyReference.cache
+C:\Source\UDP\UDPSensorStop\UDPSensorStop\obj\Debug\netcoreapp2.1\UDPSensorStop.csproj.CoreCompileInputs.cache
+C:\Source\UDP\UDPSensorStop\UDPSensorStop\obj\Debug\netcoreapp2.1\UDPSensorStop.AssemblyInfoInputs.cache
+C:\Source\UDP\UDPSensorStop\UDPSensorStop\obj\Debug\netcoreapp2.1\UDPSensorStop.AssemblyInfo.cs
+C:\Source\UDP\UDPSensorStop\UDPSensorStop\obj\Debug\netcoreapp2.1\UDPSensorStop.dll
+C:\Source\UDP\UDPSensorStop\UDPSensorStop\obj\Debug\netcoreapp2.1\UDPSensorStop.pdb
